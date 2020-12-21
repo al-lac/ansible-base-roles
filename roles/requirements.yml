@@ -1,3 +1,4 @@
 ---
 - src: git+https://github.com/al-lac/ansible-base-roles.git
   version: master
+  type: git
