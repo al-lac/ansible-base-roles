@@ -1,0 +1,3 @@
+---
+- src: https://github.com/al-lac/ansible-role-chrony.git
+  version: master
