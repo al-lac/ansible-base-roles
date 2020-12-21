@@ -1,3 +1,4 @@
 ---
-- src: https://github.com/al-lac/ansible-role-chrony.git
-  version: master
+roles: 
+  - src: https://github.com/al-lac/ansible-role-chrony.git
+    version: master
